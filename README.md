@@ -19,7 +19,7 @@ k) Escreva um programa que pergunte ao usuário se ele não é um robô. Se a re
 l) Crie um programa que peça ao usuário para digitar um número e verifique se ele não é igual a zero. Se a condição for verdadeira, o programa deve imprimir "O número é diferente de zero". \
 m) Escreva um programa que pergunte ao usuário se ele não é um membro inativo de um clube. Se a resposta for negativa, o programa deve imprimir "Por favor, atualize sua inscrição para continuar usufruindo dos benefícios do clube" . \
 n) Crie um programa que peça ao usuário para digitar uma palavra e verifique se ela não é vazia. Se a condição for verdadeira, o programa deve imprimir "A palavra não é vazia". \
-o) Escreva um programa que pergunte ao usuário se ele não deseja cancelar uma operação. Se a resposta for negativa, o programa deve imprimir "Por favor, confirme o cancelamento da operação". \
+o) Escreva um programa que pergunte ao usuário se ele não deseja cancelar uma operação. Se a resposta for negativa, o programa deve imprimir "Por favor, confirme o cancelamento da operação". 
 
 #
 # Enunciados da lista 5
@@ -32,4 +32,4 @@ f) Calcule o valor absoluto de um número. \
 g) Verifique se um número é positivo, negativo ou zero. \
 h) Converta uma string em um número. \
 i) Verifique se um número é divisível por outro. \
-j) Verifique se uma variável é nula ou não. \
+j) Verifique se uma variável é nula ou não. 
